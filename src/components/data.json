@@ -1,0 +1,6 @@
+[
+  { "label": ".docx", "percentage": 25 },
+  { "label": ".mp3", "percentage": 15 },
+  { "label": ".pdf", "percentage": 35 },
+  { "label": ".mp4", "percentage": 25 }
+]
