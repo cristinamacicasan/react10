@@ -1,4 +1,4 @@
-// App.js
+
 
 import React from 'react';
 import Profile from './profile'; // Importați componenta Profile
@@ -8,7 +8,7 @@ import statsData from './data.json'
 import PropTypes from 'prop-types';
 import friendsData from '../components/friends.json'
 import FriendList from './friendList';
-import FriendListItem from './/FriendListItem';
+import FriendListItem from './FriendListItem';
 
 
 export const App = () => {
