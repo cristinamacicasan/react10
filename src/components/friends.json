@@ -1,0 +1,28 @@
+[
+  {
+    "avatar": "https://ca.slack-edge.com/T05F0FBEZ4J-U05HY8RUVNE-07ba26c4feff-512",
+    "name": "Calina Sara",
+    "isOnline": true
+  },
+  {
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2cAAAVIDObwc7UW-SL7cgwZXAyXxJm4TMA&s",
+    "name": "Goga Maria",
+    "isOnline": false
+  },
+  {
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIBd5A_yvLGrd5zoGwwTFjFaMl2AuGdRHQDw&s",
+    "name": "Purice Marcel",
+    "isOnline": true
+  },
+  {
+    "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHP8xxtctULzzAdsi0_8Dm8t-xtJzrsSrzw&s",
+    "name":"Florea Stefan",
+    "isOnline":true
+  },
+  {
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIBd5A_yvLGrd5zoGwwTFjFaMl2AuGdRHQDw&s",
+    "name": "Tabara Cornel",
+    "isOnline": true
+  }
+  
+]
