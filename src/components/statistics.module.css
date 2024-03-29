@@ -37,8 +37,7 @@
     padding: 10px;
 }
 
-.statList li:not(:last-child) {
-}
+
 
 .statList li:nth-child(4n+1) {
     background-color: #eb1616;
