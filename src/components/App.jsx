@@ -1,14 +1,13 @@
 
 
 import React from 'react';
-import Profile from './profile'; // Importați componenta Profile
+import Profile from './profile'; 
 import Statistics from './statistics';
-import userData from './user.json'; // Importați datele utilizatorului
+import userData from './user.json'; 
 import statsData from './data.json'
 import PropTypes from 'prop-types';
 import friendsData from '../components/friends.json'
 import FriendList from './friendList';
-import FriendListItem from './FriendListItem';
 
 
 export const App = () => {
@@ -23,7 +22,6 @@ export const App = () => {
       />
       <Statistics title="Upload stats" stats={statsData} />
       <FriendList friends={friendsData} />
-      <FriendListItem />
       {/* Aici vine tema 3 , componenta 3*/}
     </div>
   );
